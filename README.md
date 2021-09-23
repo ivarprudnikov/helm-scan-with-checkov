@@ -1,4 +1,4 @@
-Scan helm shart with Checkov
+Scan helm chart with Checkov
 ================
 
 [![CI Scanner](https://github.com/ivarprudnikov/helm-scan-with-checkov/actions/workflows/scanner.yml/badge.svg)](https://github.com/ivarprudnikov/helm-scan-with-checkov/actions/workflows/scanner.yml)
