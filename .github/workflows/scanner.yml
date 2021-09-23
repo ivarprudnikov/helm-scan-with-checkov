@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Run test script that scans Kubernetes config
+      - name: Run test script that scans Helm chart directory
         run: ./test.sh
 
